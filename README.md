@@ -1,7 +1,7 @@
 # Keylogger Project
 
 ## Overview
-This project is a sophisticated keylogger designed for **educational purposes only**. It showcases advanced techniques such as persistence, data exfiltration, encryption, and stealth. This project is not intended for malicious use and should be utilized responsibly.
+This project is a sophisticated keylogger designed for **educational purposes only**. It showcases advanced techniques such as persistence, data exfiltration, encryption, and stealth. This project is not intended for malicious use and should be utilized responsibly.This code will only run on **Linux**
 
 ## Features
 - **Persistence**: Automatically starts when the system reboots.
